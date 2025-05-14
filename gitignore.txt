@@ -1,1 +1,1 @@
-data/*
+propio/data/*
